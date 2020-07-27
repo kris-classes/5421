@@ -1,1 +1,19 @@
+def add(num1, num2):
+    return (num1 + num2)
 
+def subtract(num1, num2):
+    return (num1 - num2)
+
+def divide(num1, num2):
+    return (num1 / num2)
+
+def floor_divide(num1, num2):
+    return (num1 // num2)
+
+def modulus(num1, num2):
+    return (num1 % num2)
+
+for i in range(2,51):
+    for j in range(50,1,-1):
+        if i%j==0:
+            print(i)
