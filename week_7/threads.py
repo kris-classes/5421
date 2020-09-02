@@ -1,3 +1,10 @@
+"""
+ISCG5421 - threading module
+
+Kris Pritchard / @krisrp
+Sep 2020
+
+"""
 import threading as th
 import time
 
