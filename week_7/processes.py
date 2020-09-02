@@ -1,3 +1,10 @@
+"""
+ISCG5421 - multiprocessing module
+
+Kris Pritchard / @krisrp
+Sep 2020
+
+"""
 import multiprocessing as mp
 import time
 
