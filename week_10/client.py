@@ -1,3 +1,13 @@
+"""
+TODO:
+Add unit tests
+Add key-value server functionality and persistence.
+Break server's datetime functionality out into a separate module.
+Add more logging
+Extend the command line functionality
+"""
+
+
 import cmd
 import datetime
 import httpx
